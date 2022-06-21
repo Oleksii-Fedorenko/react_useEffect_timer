@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_useeffect_timer=this.webpackJsonpreact_useeffect_timer||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(0),r=c.n(n),i=c(3),o=c.n(i),s=(c(8),c(9),c(1)),u=function(){return Object(s.jsx)("h1",{children:"Hello world"})};o.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(u,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.2b573486.chunk.js.map
