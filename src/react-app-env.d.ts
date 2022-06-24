@@ -1,8 +1,4 @@
 /// <reference types="react-scripts" />
-
-interface defaultRemainingTime {
-  seconds: string,
-  minutes: string,
-  hours: string,
-  days: string,
+interface Interval {
+  interval: Ref<HTMLDivElement>;
 }
