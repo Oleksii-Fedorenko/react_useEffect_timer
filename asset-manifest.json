@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/react_useeffect_timer/static/css/main.e2e11c00.chunk.css",
-    "main.js": "/react_useeffect_timer/static/js/main.cb597683.chunk.js",
-    "main.js.map": "/react_useeffect_timer/static/js/main.cb597683.chunk.js.map",
+    "main.css": "/react_useeffect_timer/static/css/main.1846ea42.chunk.css",
+    "main.js": "/react_useeffect_timer/static/js/main.b53c1210.chunk.js",
+    "main.js.map": "/react_useeffect_timer/static/js/main.b53c1210.chunk.js.map",
     "runtime-main.js": "/react_useeffect_timer/static/js/runtime-main.dcb761b2.js",
     "runtime-main.js.map": "/react_useeffect_timer/static/js/runtime-main.dcb761b2.js.map",
-    "static/js/2.a620c516.chunk.js": "/react_useeffect_timer/static/js/2.a620c516.chunk.js",
-    "static/js/2.a620c516.chunk.js.map": "/react_useeffect_timer/static/js/2.a620c516.chunk.js.map",
+    "static/js/2.76268b2d.chunk.js": "/react_useeffect_timer/static/js/2.76268b2d.chunk.js",
+    "static/js/2.76268b2d.chunk.js.map": "/react_useeffect_timer/static/js/2.76268b2d.chunk.js.map",
     "index.html": "/react_useeffect_timer/index.html",
-    "static/css/main.e2e11c00.chunk.css.map": "/react_useeffect_timer/static/css/main.e2e11c00.chunk.css.map",
-    "static/js/2.a620c516.chunk.js.LICENSE.txt": "/react_useeffect_timer/static/js/2.a620c516.chunk.js.LICENSE.txt"
+    "static/css/main.1846ea42.chunk.css.map": "/react_useeffect_timer/static/css/main.1846ea42.chunk.css.map",
+    "static/js/2.76268b2d.chunk.js.LICENSE.txt": "/react_useeffect_timer/static/js/2.76268b2d.chunk.js.LICENSE.txt",
+    "static/media/CountDownTimer.scss": "/react_useeffect_timer/static/media/background_watch.4c4247b4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dcb761b2.js",
-    "static/js/2.a620c516.chunk.js",
-    "static/css/main.e2e11c00.chunk.css",
-    "static/js/main.cb597683.chunk.js"
+    "static/js/2.76268b2d.chunk.js",
+    "static/css/main.1846ea42.chunk.css",
+    "static/js/main.b53c1210.chunk.js"
   ]
 }
